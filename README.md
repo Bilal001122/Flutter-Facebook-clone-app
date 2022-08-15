@@ -1,6 +1,10 @@
-# facebook_clone
+# Facebook clone app
 
-A new Flutter project.
+
+https://user-images.githubusercontent.com/101145194/184701455-4deac6b8-e466-4d7f-af46-a7a7a5481597.mp4
+
+
+
 
 ## Getting Started
 
